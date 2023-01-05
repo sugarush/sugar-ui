@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@timberio/browser": "^0.35.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue-promised": "^1.2.2",
     "vue-text-highlight": "^2.0.10"
   },
